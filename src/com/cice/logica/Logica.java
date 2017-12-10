@@ -34,7 +34,7 @@ public class Logica {
     }
 
     //Division
-    public int dividir (int numA, numA){
+    public int dividir (int numA, int numB){
         int resultado = 0;
 
         resultado = numA / numB;
