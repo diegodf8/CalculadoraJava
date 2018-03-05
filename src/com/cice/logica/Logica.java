@@ -40,6 +40,8 @@ public class Logica {
         resultado = numA / numB;
 
         return  resultado;
+        
+        //Comentario
 
     }
 
